@@ -1,0 +1,29 @@
+.board-row{
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  
+  
+}
+
+.board-container{
+  color: blueviolet;
+  text-align: center;
+  font-size:30px;
+  margin: 40px 0 0 450px;
+  height: 50%;
+  width: 50%;
+  
+}
+.Square{
+        
+       border:"5px solid red";
+        height:"100px";
+        width:"100%";
+        font-size: 400px;
+        display:"flex";
+        justify-content:center ;
+        align-items: center;
+        color:blue;
+        
+}
